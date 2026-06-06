@@ -122,7 +122,7 @@ export default function MuzWebsite() {
             {/* VISUAL BLOCK */}
             <div className="relative h-[420px] md:h-[620px] overflow-hidden border border-white/10 bg-black">
               <img
-                src="/texture-main.png"
+                src="assets/texture-main.png"
                 alt="muz texture"
                 className="absolute inset-0 w-full h-full object-cover opacity-95"
               />
@@ -156,7 +156,7 @@ export default function MuzWebsite() {
 
           <div className="relative overflow-hidden border border-white/10 bg-zinc-900 min-h-[500px]">
             <img
-              src="/urban-artwork.jpeg"
+              src="assets/urban-artwork.jpeg"
               alt="Urban artwork"
               className="absolute inset-0 w-full h-full object-cover"
             />
